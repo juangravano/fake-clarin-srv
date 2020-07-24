@@ -1,17 +1,14 @@
 {
-    "status": "OK",
-    "error": null,
-    "pagination": null,
-    "data": {
-        "credentials": [
-            {
-                "type_doc": "DNI",
-                "doc": "6789",
-                "affinity_group": "Affinity1",
-                "card_number": "0192",
-                "status_cred": "ACTIVA",
-                "validity_days": 30
-            }
-        ]
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

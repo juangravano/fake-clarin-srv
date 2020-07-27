@@ -1,24 +1,21 @@
 {
   "search": [
-    {
+     {
                 "type_doc": "DNI",
                 "doc": "12345",
-                "affinity_group": "AF1",
-                "card_number": "from-clarin-1234",
+                "affinity_group": "Affinity1",
+                "card_number": "1234",
                 "status_cred": "ACTIVA",
-                "validity_days": 30,
-                "category": "CLASICA"
+                "validity_days": 30
             },
             {
                 "type_doc": "DNI",
                 "doc": "12345",
-                "affinity_group": "AF2",
-                "card_number": "from-clarin-5678",
+                "affinity_group": "Affinity2",
+                "card_number": "5678",
                 "status_cred": "INACTIVA",
-                "validity_days": 30,
-                "category": "CLASICA"
+                "validity_days": 30
             }
-     
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },

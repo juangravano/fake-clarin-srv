@@ -3,20 +3,20 @@
      {
                 "type_doc": "DNI",
                 "doc": "12345",
-                "affinity_group": "from-clarin-Affinity1",
+                "affinity_group": "01",
                 "card_number": "012345678901234567890",
                 "status_cred": "ACTIVA",
                 "validity_days": 30,
-                "category": "CLASICA"
+                "category": "CLASSIC"
             },
             {
                 "type_doc": "DNI",
                 "doc": "12345",
-                "affinity_group": "from-clarin-Affinity2",
+                "affinity_group": "01",
                 "card_number": "012345678901234567890",
                 "status_cred": "INACTIVA",
                 "validity_days": 30,
-                "category": "CLASICA"
+                "category": "PLUS"
             }
   ],
   "posts": [

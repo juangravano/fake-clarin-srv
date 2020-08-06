@@ -1,41 +1,30 @@
 {
-  "search": [
-     {
-	"status": {
-		"code": "1200",
-		"message": "valid user"
-	},
-	"credential": [{
-		"type_doc": "DNI",
-		"doc": 12345678911,
-		"affinity_group": 1,
-		"credential": "123",
-		"status_cred": "",
-		"validity_days": "90", ← trial
-		"cred_platform": "todopago_365"
-	},
-{
-		"type_doc": "DNI",
-		"doc": 12345678911,
-		"affinity_group": 1,
-		"credential": "123",
-		"status_cred": "",
-"validity_days": "90", ← trial
-		"cred_platform": "todopago_365"
-	}]
-}
-
-  ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "search":[
+      {
+         "status":{
+            "code":"1200",
+            "message":"valid user"
+         },
+         "credential":[
+            {
+               "type_doc":"DNI",
+               "doc":12345678911,
+               "affinity_group":1,
+               "credential":"123",
+               "status_cred":"",
+               "validity_days":"90",
+               "cred_platform":"todopago_365"
+            },
+            {
+               "type_doc":"DNI",
+               "doc":12345678911,
+               "affinity_group":1,
+               "credential":"123",
+               "status_cred":"",
+               "validity_days":"90",
+               "cred_platform":"todopago_365"
+            }
+         ]
+      }
+   ]
 }

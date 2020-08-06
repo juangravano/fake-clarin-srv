@@ -10,7 +10,7 @@
                "type_doc":"DNI",
                "doc":12345678911,
                "affinity_group":"01",
-               "credential":"123",
+               "credential":"3086251500017137018",
                "status_cred":"ACTIVE",
                "validity_days":"90",
                "cred_platform":"todopago_365"
@@ -19,7 +19,7 @@
                "type_doc":"DNI",
                "doc":12345678911,
                "affinity_group":"01",
-               "credential":"123",
+               "credential":"3086251500017123456",
                "status_cred":"ACTIVE",
                "validity_days":"90",
                "cred_platform":"todopago_365"

@@ -1,23 +1,30 @@
 {
   "search": [
      {
-                "type_doc": "DNI",
-                "doc": "12345",
-                "affinity_group": "01",
-                "card_number": "012345678901234567890",
-                "status_cred": "ACTIVA",
-                "validity_days": 30,
-                "category": "CLASSIC"
-            },
-            {
-                "type_doc": "DNI",
-                "doc": "12345",
-                "affinity_group": "01",
-                "card_number": "012345678901234567890",
-                "status_cred": "INACTIVA",
-                "validity_days": 30,
-                "category": "PLUS"
-            }
+	"status": {
+		"code": "1200",
+		"message": "valid user"
+	},
+	"credential": [{
+		"type_doc": "DNI",
+		"doc": 12345678911,
+		"affinity_group": 1,
+		"credential": "123",
+		"status_cred": "",
+		"validity_days": "90", ← trial
+		"cred_platform": "todopago_365"
+	},
+{
+		"type_doc": "DNI",
+		"doc": 12345678911,
+		"affinity_group": 1,
+		"credential": "123",
+		"status_cred": "",
+"validity_days": "90", ← trial
+		"cred_platform": "todopago_365"
+	}]
+}
+
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },

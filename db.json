@@ -9,18 +9,18 @@
             {
                "type_doc":"DNI",
                "doc":12345678911,
-               "affinity_group":01,
+               "affinity_group":"01",
                "credential":"123",
-               "status_cred":"",
+               "status_cred":"ACTIVE",
                "validity_days":"90",
                "cred_platform":"todopago_365"
             },
             {
                "type_doc":"DNI",
                "doc":12345678911,
-               "affinity_group":01,
+               "affinity_group":"01",
                "credential":"123",
-               "status_cred":"",
+               "status_cred":"ACTIVE",
                "validity_days":"90",
                "cred_platform":"todopago_365"
             }

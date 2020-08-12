@@ -37,7 +37,7 @@
             "affinity_group":"05",
             "credential":"3086251500017137018",
             "status_cred":"ACTIVE",
-            "validity_days":"30",
+            "validity_days":"1",
             "cred_platform":"todopago_365"
          },
          {
